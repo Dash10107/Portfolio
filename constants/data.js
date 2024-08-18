@@ -20,7 +20,7 @@ const userData = {
     {
       title:"Digic",
       link:"https://digic-frontend.vercel.app/",
-      imgUrl:"https://digic-frontend.vercel.app/images/blog-3.webp".
+      imgUrl:"https://digic-frontend.vercel.app/images/blog-3.webp",
     },
     {
       title:"Animated Portfolio",
