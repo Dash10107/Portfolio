@@ -18,8 +18,18 @@ const userData = {
       imgUrl: "/notion-cypress.png",
     },
     {
+      title:"Digic",
+      link:"https://digic-frontend.vercel.app/",
+      imgUrl:"https://digic-frontend.vercel.app/images/blog-3.webp".
+    },
+    {
+      title:"Animated Portfolio",
+      link:"https://animated-portfolio-liart.vercel.app/",
+      imgUrl:"https://animated-portfolio-liart.vercel.app/assets/logo-Dngq410z.png",
+    },
+    {
       title: "Portfolio",
-      link: "https://localhost:3000",
+      link: "https://my-portfolio-beryl-eta.vercel.app/",
       imgUrl: "/portfolio.png",
     },
 
