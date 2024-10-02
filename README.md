@@ -1,10 +1,10 @@
-Portfolio Website
+**Portfolio Website**
 Welcome to my portfolio website, built using Next.js! This site showcases my projects, skills, and experiences as a developer.
 
-Live Demo
+**Live Demo**
 You can view the live version of the website here:[Dash10107](http://dash10107.me/)
 
-Features
+**Features**
 Responsive Design: The website is fully responsive, ensuring a great user experience on both desktop and mobile devices.
 Smooth Navigation: Seamless transitions between pages for easy navigation.
 Project Showcase: Highlight your projects with detailed descriptions and links to live demos and source code.
@@ -25,9 +25,11 @@ To run this project locally, follow these steps:
    npm run dev
 
 
-```bash
-npm run dev
-Open your browser and visit http://localhost:3000.
+   ```bash
+   npm run dev
+   Open your browser and visit http://localhost:3000.
+
+
 
 Technologies Used
 Next.js: A React framework for server-side rendering and static site generation.
